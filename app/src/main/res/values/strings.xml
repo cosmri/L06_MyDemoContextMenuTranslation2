@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">L06_MyDemoContextMenuTranslation2</string>
+    <string name="english" />
+    <string name="italian" />
+</resources>
